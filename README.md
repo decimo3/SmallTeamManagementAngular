@@ -2,7 +2,15 @@
 
 Projeto para migração da tecnologia RazorPages do repositório
 
-## Dependências
+## Instalando do zero:
+
+Através do template fornecido pelo `ng new` eu pude inferir as dependências básicas para a aplicação mínima em Angular, configurada parcialmente na mão.
+
+Esse é um exercício para aprender o funcionamento do framework por dentro, mesmo antes de escrever código nele. Ainda não sei exatamente o que cada dependência faz, porém estou estudando a estrutura para aprender.
+
+A estrutura de arquivos do template é complexa, então irei testando arquivo a arquivo e verificando 
+
+## Dependências:
 
 ```bash
 npm install --save-dev @angular/cli @angular-devkit/build-angular webpack webpack-cli webpack-dev-server typescript ts-loader
